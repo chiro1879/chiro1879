@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A0T0WDL)
 
-I'm Chiro, a cisfem aro-bi programmer. <sub><sup><sub>i also may or may not be a real catgirl but we can just gloss over that part</sub></sub></sup>
+I'm Chiro, a female aro-bi programmer. <sub><sup><sub>i also may or may not be a real catgirl but we can just gloss over that part</sub></sub></sup>
 
 My pronouns are She/Her.
 
