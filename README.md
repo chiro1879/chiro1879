@@ -27,3 +27,4 @@ For verifying if any sensitive message is actually from me, here is my public ke
     DYNRI2B7uF8BANLbJhqF8pdWyhwK03iVHnpP1gyiLA+rBDWRa5c8IJEC
     =sEWX
     -----END PGP PUBLIC KEY BLOCK-----
+and its corresponding fingerprint: **9684 79A1 AFF9 27E3 7D1A  566B B569 0EEE BB95 2194**
