@@ -11,3 +11,19 @@ I like programming in C and Python. <sub><sup><sub>(and occasionally C++ but we 
 My favourite pieces of online media is Pokemon, Lackadaisy and Murder Drones. I'm open to watching or playing anything anyone suggests to me.
 
 My favourite music genre is Hardcore, Speedcore and Extratone.
+
+For verifying if any sensitive message is actually from me, here is my public key:
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    
+    mDMEaNu5JRYJKwYBBAHaRw8BAQdAnfODg+gG+ai9l7ZjFYQdNj/69hNRrEC4iROn
+    T7mUC7O0LUNoaXJvIEtha3VzYXJldGEgKDozKSA8Y2hlZXJpb0BjaGlyb2V0c24u
+    eHl6PoiQBBMWCgA4FiEEnx1ZXs15iYArJerGGMxvSGg5hpsFAmjbuSUCGwMFCwkI
+    BwIGFQoJCAsCBBYCAwECHgECF4AACgkQGMxvSGg5hpu0iQEA/IMoNkBQOoeeqHlF
+    sUMta7R7i+qYV4ZSe5XWdRYa8GIBAJH4DJO0Qm2RYAM5AV+uXaVPJk7AOc9wLOJl
+    +AOfeyoLuDgEaNu5JRIKKwYBBAGXVQEFAQEHQFJMQByMJpjC/A4Qh27VCozUcPEu
+    2ay+NcEIbGR6XycnAwEIB4h4BBgWCgAgFiEEnx1ZXs15iYArJerGGMxvSGg5hpsF
+    AmjbuSUCGwwACgkQGMxvSGg5hpu9CQD/YbJ4U5w71pjgFO/UK9C18uwAOVG38gZo
+    DYNRI2B7uF8BANLbJhqF8pdWyhwK03iVHnpP1gyiLA+rBDWRa5c8IJEC
+    =sEWX
+    -----END PGP PUBLIC KEY BLOCK-----
