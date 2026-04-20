@@ -10,7 +10,7 @@ I like programming in C and Python. <sub><sup><sub>(and occasionally C++ but we 
 
 My favourite pieces of online media is Pokemon, Lackadaisy and Murder Drones. I'm open to watching or playing anything anyone suggests to me.
 
-My favourite music genre is Hardcore, Speedcore and Extratone.
+My favourite music genre is Uptempo, Rawstyle, and Speedcore.
 
 For verifying if any sensitive message is actually from me, here is my public key:
 
